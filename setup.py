@@ -33,7 +33,7 @@ setup(
         "click==8.1.7",
         "asyncio==3.4.3",
         "tiktoken==0.6.0",
-        "requests==2.31.0",
+        "requests==2.32.2",
         "pypdf==4.3.1",
         "python-docx==1.1.2",
         "scikit-learn==1.5.1",
